@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I'm currently working on [Student Management System](https://github.com/ParthBaria/studentManagementSystem)
+- 🔭 I'm currently working on **Cloudinary Media App**
 - 🌱 I'm currently learning **Next.js & TypeScript**
 - 💬 Ask me about **React, Node.js, REST APIs**
 - 📫 Reach me at **parthbariya96@gmail.com**
-- 📄 View my resume: [Click here](https://drive.google.com/file/d/1ZIE-f2Tlb88aPOLUerWoBx1apbiMD1O6/view)
+- 📄 View my resume: [Click here](https://drive.google.com/file/d/14Rb7fEMZi-m65KlyFSt9E6FXnNhBQ5AL/view?usp=sharing)
 
 ---
 
@@ -63,8 +63,8 @@
 | Project | Description | Tech Stack | Live |
 |---|---|---|---|
 | [BlueCare](https://github.com/ParthBaria/BlueCare) | Healthcare web application | React, Node.js, MongoDB | 🔗 Coming Soon |
-| [InfoSteam](https://github.com/ParthBaria/InfoSteam) | Latest news aggregator website | JavaScript, REST API | 🔗 Coming Soon |
-| [Student Management System](https://github.com/ParthBaria/studentManagementSystem) | Full-stack student management app | React, Express, MongoDB | 🔗 Coming Soon |
+| [InfoSteam](https://github.com/ParthBaria/InfoSteam) | Latest news aggregator website | JavaScript, REST API | [🔗 Live](https://infostream-523f0.web.app/) |
+| [Cloudinary App](https://github.com/ParthBaria) | Image upload & media management app | React, Cloudinary, Node.js | 🔗 Coming Soon |
 
 ---
 
