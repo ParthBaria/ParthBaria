@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **Next.js & TypeScript**
 - 💬 Ask me about **React, Node.js, REST APIs**
 - 📫 Reach me at **parthbariya96@gmail.com**
-- 📄 View my resume: [Click here](https://drive.google.com/file/d/14Rb7fEMZi-m65KlyFSt9E6FXnNhBQ5AL/view?usp=sharing)
+- 📄 View my resume: [Click here](https://drive.google.com/file/d/1X65Ii6-MNeQtMBXRyby1TFgEmvr-qPKA/view?usp=sharing)
 
 ---
 
